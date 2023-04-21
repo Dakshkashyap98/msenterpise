@@ -84,13 +84,14 @@ html{
 #home h1 {
     font-family: 'Bree Serif', serif;
     font-family: 'GFS Didot', serif;
-    color: rgb(153 243 226);
+    color: rgb(255 96 96);
 }
 
 #home p {
     font-family: 'Bree Serif', serif;
     font-family: 'GFS Didot', serif;
     color: white;
+    font-weight: bold;
     font-size: 18px;
 }
 
